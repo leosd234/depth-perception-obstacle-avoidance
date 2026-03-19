@@ -1,0 +1,11 @@
+ECHO is on.
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+*.bag
+*.png
+*.jpg
+*.mp4
+demo/
